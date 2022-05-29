@@ -56,7 +56,8 @@ Install the requirements using:
 ```
 pip install -r requirements.txt
 ```
-Now change the path of the images by pasting the path of the images directory inside the attendance_tracker in the file named ml_code.py which is inside main directory.<br><br>
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/last_img.png?raw=true">
+In ml_codepy few lines needed to be updated.<br><br>
 Also change the path of the attendance.csv file in the same way.
 
 ### Start the server using:
