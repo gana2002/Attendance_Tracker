@@ -1,4 +1,4 @@
-# Attendace_Tracker
+# Attendance_Tracker
 This is a project done for the Microsoft Engage Program 2022 <br>
 **ATTENDANCE TRACKER BY GAHANA R**
 
@@ -17,7 +17,7 @@ for all future check-ins once it has been registered.
 Under the skilled direction of my mentor, Mazhar Ali Beg sir, through the Microsoft Engage Mentorship Program 2022. I was able to progress from someone who
 could only create static web pages to someone who can create full stack web applications.
 
-## Table of contents	
+# Table of contents	
 1. [Features of Applications](#features-of-the-application)
 2. [Installation](#installation)
 3. [Tech Stack Selection](#tech-stack-selection)
@@ -26,21 +26,36 @@ could only create static web pages to someone who can create full stack web appl
 6. [User Interface](#user-interface)
 7. [Support and contact](#support-and-contact)
 
-### Features of the Application
+## Features of the Application
 1. Login 
 2. Confirm user name and password check 
 3. Home 
 4. Check-in attendance through facial recognition 
 5. View attendance report
 
-### Installation
-1. Clone this repository <br>
+## Installation
+Install [Python](https://www.python.org/) and add it to the environment variable path and make sure you have version 22.1.1 or higher of pip. You can check version using:
+``` 
+pip --version
 ```
-git clone https://github.com/gana2002/Attendace_Tracker.git
+If not then you can upgrade using:
 ```
-2. 
+python -m pip install --upgrade pip
+```
+clone this repository
+```
+git clone https://github.com/gana2002/Attendance_Tracker.git
+```
+Go into the repository directory
+```
+cd Attendance_Tracker/attendance_Tracker
+```
+Install the requirements using:
+```
+pip install -r requirements.txt
+```
 
-### Tech Stack Selection 
+## Tech Stack Selection 
 Despite all of the smart devices available today, one thing remains constant: online and internet browsers. I choose to make my product a web application so that 
 a big number of people may easily use it and connect with one another.
 
@@ -66,60 +81,21 @@ fixing part of the development process as it is crucial to offer whatever featur
 4. I completed the documentation as well as the README and submitted it along with the demo video. Adjusting AceHacker Assignments To cater to the assignments provided by the AceHacker platform and also undertake the tasks and suggestions provided by the mentors, I made a separate card where I put these assignments and made sure I was completing them alongside my ongoing sprints.
 
 
-### Challenges Faced
-"If you are not facing challenges while developing an application, you are not considering every possible case for a better experience of your users."
-
+## Challenges Faced
+"If you are not facing challenges while developing an application, you are not considering every possible case for a better experience of your users."<br>
 During the development process I faced the following challenges:
- 1. Understanding the working of the backend side of my application as I had never    worked with web backend before. However, thanks to online communities, 
+1. Understanding the working of the backend side of my application as I had never worked with web backend before. However, thanks to online communities, 
  stackoverflow, my mentors and friends I was able to find resources which helped me in creating this web application.
- 
-2. Preparing a feature list. In the beginning I wanted to build an app like no other and incorporate many features. But in the interest of time, I had to narrow down 
-the features to the basic functionalities that are available in an attendance tracking system. 
+2. Preparing a feature list. In the beginning I wanted to build an app like no other and incorporate many features. But in the interest of time, I had to narrow down the features to the basic functionalities that are available in an attendance tracking system. 
 
-All these challenges were less of challenges and more of lessons, lessons to help me have an even better development process in the future so that I can incorporate 
-the customers' requests and requirements easily and efficiently.
+All these challenges were less of challenges and more of lessons, lessons to help me have an even better development process in the future so that I can incorporate the customers' requests and requirements easily and efficiently.
 
-### User Interface
+## User Interface
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Future Scope
-
+## Future Scope
 1. To make my app more accurate and support large datasets.
 2. To make registrations of the new employees through the front end.
 3. To make it more scalable and user friendly.
 
-### SUPPORT AND CONTACT 
+## SUPPORT AND CONTACT 
 * EMAIL: [Gahana R](mailto:writetogahana@gmail.com) 
