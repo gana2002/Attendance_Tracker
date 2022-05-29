@@ -110,7 +110,7 @@ All these challenges were less of challenges and more of lessons, lessons to hel
 
 ## User Interface
 1. Main UI<br>
-<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(2).jpeg?">
+<img style="border-radius:10px" src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(2).jpeg?">
 <br><hr><br>
 2. Login Page<br>
 <img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(1).jpeg">
