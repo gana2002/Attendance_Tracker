@@ -59,8 +59,7 @@ pip install -r requirements.txt
 
 <img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/last_img.png?raw=true">
 In the main directory, there is ml_code.py, in which few lines need to be updated.<br>
-We shall give the current path for **images in line no. 10** and also for **attendance.csv file in line no. 35**<br>
-Also change the path of the attendance.csv file in the same way.
+We shall give the current path for <strong>images in line no. 10</strong> and also for <strohng>attendance.csv file in line no. 35</strong><br>
 
 ### Start the server using:
 ```
