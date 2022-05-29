@@ -81,6 +81,12 @@ How to build a facial recognition system in python suing OpenFace and dlib?!
 3.	Pass the centered face image through a neural network that knows how to measure features of the face. Save those 128 measurements.
 4.	Looking at all the faces we’ve measured in the past, see which person has the closest measurements to our face’s measurements. That’s our match!
 
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/img1.jpeg?raw=true">
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/img2.jpeg?raw=true">
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/img3.jpeg?raw=true">
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/img4.jpeg?raw=true">
+
+## My Journey so far in this program.
 I divided my entire development process into 4 sprints (each having the duration of 5 days) as shown in the images below. I gave due importance to the bug review and 
 fixing part of the development process as it is crucial to offer whatever features you are offering are offered with utmost perfection.
 
@@ -102,9 +108,25 @@ All these challenges were less of challenges and more of lessons, lessons to hel
 
 ## User Interface
 1. Main UI<br>
-![Main UI](https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(2).jpeg?raw=true)
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(2).jpeg?">
+<br><hr><br>
 2. Login Page<br>
-![Login Page](https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(1).jpeg)
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(1).jpeg">
+<br><hr><br>
+3. Additional pictures of UI
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.07%20PM%20(1).jpeg">
+<br>
+<hr>
+<br>
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.07%20PM.jpeg">
+<br>
+<hr>
+<br>
+<img src="https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM.jpeg">
+<br>
+<hr>
+
+
 ## Future Scope
 1. To make my app more accurate and support large datasets.
 2. To make registrations of the new employees through the front end.
