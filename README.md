@@ -101,7 +101,10 @@ During the development process I faced the following challenges:
 All these challenges were less of challenges and more of lessons, lessons to help me have an even better development process in the future so that I can incorporate the customers' requests and requirements easily and efficiently.
 
 ## User Interface
-
+1. Main UI<br>
+![Main UI](https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(2).jpeg?raw=true)
+2. Login Page<br>
+![Login Page](https://github.com/gana2002/Attendance-Tracking-/blob/main/WhatsApp%20Image%202022-05-29%20at%203.02.08%20PM%20(1).jpeg)
 ## Future Scope
 1. To make my app more accurate and support large datasets.
 2. To make registrations of the new employees through the front end.
