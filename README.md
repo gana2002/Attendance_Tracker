@@ -50,9 +50,18 @@ Go into the repository directory
 ```
 cd Attendance_Tracker/attendance_Tracker
 ```
+Click this [dlib-error resolved](https://github.com/datamagic2020/Install-dlib)
+
 Install the requirements using:
 ```
 pip install -r requirements.txt
+```
+Now change the path of the images by pasting the path of the images directory inside the attendance_tracker in the file named ml_code.py which is inside main directory.<br><br>
+Also change the path of the attendance.csv file in the same way.
+
+### Start the server using:
+```
+python manage.py runserver
 ```
 
 ## Tech Stack Selection 
@@ -87,6 +96,7 @@ During the development process I faced the following challenges:
 1. Understanding the working of the backend side of my application as I had never worked with web backend before. However, thanks to online communities, 
  stackoverflow, my mentors and friends I was able to find resources which helped me in creating this web application.
 2. Preparing a feature list. In the beginning I wanted to build an app like no other and incorporate many features. But in the interest of time, I had to narrow down the features to the basic functionalities that are available in an attendance tracking system. 
+3. Error while downloading all the ml libraries like [dlib](https://github.com/datamagic2020/Install-dlib)
 
 All these challenges were less of challenges and more of lessons, lessons to help me have an even better development process in the future so that I can incorporate the customers' requests and requirements easily and efficiently.
 
