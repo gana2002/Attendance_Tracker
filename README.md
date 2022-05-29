@@ -2,7 +2,7 @@
 This is a project done for the Microsoft Engage Program 2022 <br>
 **ATTENDANCE TRACKER BY GAHANA R**
 
-ATTENADANCE TRACKER is a web application that may be used to track employee attendance using facial recognition technology. This project was created as part of the 
+It is a web application that may be used to track employee attendance using facial recognition technology. This project was created as part of the 
 Microsoft Engage Program 2022, in which mentees were required to create a product with the use of facial recognition.
 
 **Motivation:**<br>
@@ -18,13 +18,13 @@ Under the skilled direction of my mentor, Mazhar Ali Beg sir, through the Micros
 could only create static web pages to someone who can create full stack web applications.
 
 ## Table of contents	
-1. [Features of Applications](#Features-of-the-Application)
+1. [Features of Applications](#features-of-the-application)
 2. [Installation](#installation)
-3. [Tech Stack Selection](#Tech-Stack-Selection)
-4. [Challenges Faced](#Challenges-Faced)
+3. [Tech Stack Selection](#tech-stack-selection)
+4. [Challenges Faced](#challenges-faced)
 5. [Future Scope](#future-scope)
-6. [User Interface](#User-Interface)
-7. [Support and contact](#Support-and-contact)
+6. [User Interface](#user-interface)
+7. [Support and contact](#support-and-contact)
 
 ### Features of the Application
 1. Login 
@@ -34,7 +34,11 @@ could only create static web pages to someone who can create full stack web appl
 5. View attendance report
 
 ### Installation
-
+1. Clone this repository <br>
+```
+git clone https://github.com/gana2002/Attendace_Tracker.git
+```
+2. 
 
 ### Tech Stack Selection 
 Despite all of the smart devices available today, one thing remains constant: online and internet browsers. I choose to make my product a web application so that 
@@ -53,37 +57,13 @@ How to build a facial recognition system in python suing OpenFace and dlib?!
 3.	Pass the centered face image through a neural network that knows how to measure features of the face. Save those 128 measurements.
 4.	Looking at all the faces we’ve measured in the past, see which person has the closest measurements to our face’s measurements. That’s our match!
 
-
-
-
-
-
-
-
-
-
-
-
 I divided my entire development process into 4 sprints (each having the duration of 5 days) as shown in the images below. I gave due importance to the bug review and 
 fixing part of the development process as it is crucial to offer whatever features you are offering are offered with utmost perfection.
 
-SPRINT 1
-I analysed all three problems and decided on facial recognition as the most interesting. And I decided to design an attendance tracking system because it is something
-I am more familiar with. Make a list of the highlights. After that, I began with I started the model by using an API that has already been trained on a big dataset, as
-well as loading and executing the model. I gave the mentor an update on my progress.
-
-SPRINT 2
- Consulted with mentor and decided on Django as the framework because it was popular and met all of the requirements. Using Django and Python, I created a whole 
- pipeline. Because I was working on these technologies for the first time, it required some time.
- 
-SPRINT 3 
-The frontend section was created in accordance with the requirements. I attempted to make use of the available frameworks in order to provide a pleasant user 
-experience. Examine and correct the flaws.
-
-SPRINT 4 
-I completed the documentation as well as the README and submitted it along with the demo video.
-Adjusting AceHacker Assignments To cater to the assignments provided by the AceHacker platform and also undertake the tasks and suggestions provided by the mentors, 
-I made a separate card where I put these assignments and made sure I was completing them alongside my ongoing sprints.
+1. I analysed all three problems and decided on facial recognition as the most interesting. And I decided to design an attendance tracking system because it is something. I am more familiar with. Make a list of the highlights. After that, I began with I started the model by using an API that has already been trained on a big dataset, as well as loading and executing the model. I gave the mentor an update on my progress.
+2. Consulted with mentor and decided on Django as the framework because it was popular and met all of the requirements. Using Django and Python, I created a whole pipeline. Because I was working on these technologies for the first time, it required some time.
+3. The frontend section was created in accordance with the requirements. I attempted to make use of the available frameworks in order to provide a pleasant user experience. Examine and correct the flaws.
+4. I completed the documentation as well as the README and submitted it along with the demo video. Adjusting AceHacker Assignments To cater to the assignments provided by the AceHacker platform and also undertake the tasks and suggestions provided by the mentors, I made a separate card where I put these assignments and made sure I was completing them alongside my ongoing sprints.
 
 
 ### Challenges Faced
